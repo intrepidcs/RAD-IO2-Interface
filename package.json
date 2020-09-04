@@ -36,7 +36,7 @@
     "emit-stream": "^0.1.2",
     "jquery": "^3.4.1",
     "nan": "^2.14.0",
-    "papaparse": "^4.6.3",
+    "papaparse": "^5.2.0",
     "popper.js": "^1.15.0",
     "sudo-prompt": "^9.0.0",
     "through": "^2.3.8"
